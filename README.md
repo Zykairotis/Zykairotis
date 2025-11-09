@@ -74,14 +74,15 @@ Here's a glimpse into the technologies I command, categorized by their primary d
 ## 📈 GitHub Cyber-Metrics
 
 <p align="center">
-  <img src="https://stats.aleen42.com/api/aleen42?username=Zykairotis&show_icons=true&theme=dark" alt="Zykairotis's GitHub Stats" />
-  <img src="https://stats.aleen42.com/api/aleen42/top-langs?username=Zykairotis&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github.cards/api/Zykairotis/stats" alt="Zykairotis's GitHub Stats" />
+  <img src="https://github.cards/api/Zykairotis/languages" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Zykairotis?style=for-the-badge&logo=github" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/Zykairotis?style=for-the-badge&logo=github" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/last-commit/Zykairotis/Zykairotis?style=for-the-badge&logo=github" alt="GitHub commits"/>
+  <img src="https://img.shields.io/github/followers/Zykairotis?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=blue" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/following/Zykairotis?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=green" alt="GitHub following"/>
+  <img src="https://img.shields.io/github/repos/Zykairotis?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=orange" alt="GitHub repos"/>
+  <img src="https://img.shields.io/github/last-commit/Zykairotis/Zykairotis?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=purple" alt="Last commit"/>
 </p>
 
 ## 🐍 My Contribution Matrix
