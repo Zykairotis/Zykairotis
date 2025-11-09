@@ -74,8 +74,14 @@ Here's a glimpse into the technologies I command, categorized by their primary d
 ## 📈 GitHub Cyber-Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zykairotis&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Zykairotis's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zykairotis&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://stats.aleen42.com/api/aleen42?username=Zykairotis&show_icons=true&theme=dark" alt="Zykairotis's GitHub Stats" />
+  <img src="https://stats.aleen42.com/api/aleen42/top-langs?username=Zykairotis&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Zykairotis?style=for-the-badge&logo=github" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/Zykairotis?style=for-the-badge&logo=github" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/last-commit/Zykairotis/Zykairotis?style=for-the-badge&logo=github" alt="GitHub commits"/>
 </p>
 
 ## 🐍 My Contribution Matrix
@@ -83,5 +89,3 @@ Here's a glimpse into the technologies I command, categorized by their primary d
 <p align="center">
   <img src="https://github.com/Zykairotis/Zykairotis/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-<!-- GitHub Actions workflow for snake game will be created in .github/workflows/main.yml --> 
